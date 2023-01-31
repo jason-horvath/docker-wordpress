@@ -1,0 +1,7 @@
+.DS_Store
+.idea
+wordpresss
+docker/mysql/data/*
+!docker/mysql/data/.gitkeep
+docker/nginx/certs/*
+!docker/nginx/certs/.gitkeep
