@@ -1,6 +1,6 @@
 .DS_Store
 .idea
-wordpresss
+wordpress
 docker/mysql/data/*
 !docker/mysql/data/.gitkeep
 docker/nginx/certs/*
